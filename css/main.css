@@ -1,0 +1,136 @@
+/* CSS Document */
+.spacer {
+  color:#336699;
+  size:1px;
+}
+.button {
+  background-image:url(button.png);
+  color: white;
+  height:20px;
+  width:80px;
+  border:0px;
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10px;
+  font-weight:bold;
+}
+
+.button_small {
+  background-image:url(button.png);
+  color: white;
+  height:20px;
+  width:40px;
+  border:0px;
+  font-family:Verdana, Arial, Helvetica;
+  font-size:10px;
+  font-weight:bold;
+}
+
+.separator {
+    background-image:url(delimiter.png);
+    background-color:#336699;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:12px;
+}
+
+.banner {
+  background-image:url(bg.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  height:120px;
+}
+.preview {
+  background-image:url(ajax-loader.gif);
+  background-repeat:no-repeat;
+  background-color:rgb(222,222,222);
+  background-position:center;
+  height:320px;
+  width:420px;
+  /* border: 1px solid black; */
+  text-align:center;
+  vertical-align:middle;
+  padding:10px;  
+}
+
+.navi {
+  background-color:#336699;
+  text-align:right;
+  margin-left:auto;
+  margin-right:10px;
+  height:30px;
+  color: white;
+  font-family: Verdana, Arial, Helevtica;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.textfield_nav {
+    background-color:rgb(153,204,255);
+    color:white;
+    border:1px solid white;
+    width:150px;
+    height:20px;
+    font-family: Verdana, Arial;
+    font-weight:bold;
+    font-size:10px;
+}
+
+.thumb {
+  width: 170px;
+  height: 190px;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid black;
+  border-spacing: 10px;
+  padding: 5px;
+  
+}
+
+.desc_form {
+    text-align: right;
+    vertical-align: top;
+    font-family: Verdana, Arial;
+    font-size:10px;    
+}
+
+.desc {
+    text-align: left;
+    vertical-align: top;
+    font-family: Verdana, Arial;
+    font-size:10px;    
+}
+
+.textfield_form {
+    background-color:white;
+    border:1px solid black;
+    width:300px;
+    height:20px;
+    font-family: Verdana, Arial;
+    font-size:10px;
+}
+
+.textarea_form {
+    background-color:white;
+    border:1px solid black;
+    width:300px;
+    height:120px;
+    font-family: Verdana, Arial;
+    font-size:10px;
+}
+    
+h2 {
+    background-color:#336699;
+    color: white;
+    font-family: Verdana, Arial;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.login {
+    width:450px;
+    height: 300px;
+    margin: 200px auto;
+    text-align: center;
+}
